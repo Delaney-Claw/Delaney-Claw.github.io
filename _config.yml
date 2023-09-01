@@ -15,7 +15,7 @@ title                    : "Delaney Clawson"
 title_separator          : "-"
 subtitle                 : "Engineering Portfolio"
 name                     : &name "Delaney Clawson" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Biomedical Engineer"
 url                      : https://delaney-claw.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -97,16 +97,14 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "assets/img/Nov2022_headshot.jpeg"
   bio              : "Applying engineering experience to prosthetics and orthotics design "
-  location         : "Nashville, TN and Kansas City, MO"
+  location         : "Kansas City, MO"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Delaney-Claw"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+
 
 
 # Site Footer
@@ -115,9 +113,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
 
 
 # Reading Files
