@@ -7,7 +7,7 @@ title: "About Delaney Clawson"
 Delaney is seeking opportunities in prosthetics and orthotics research and development to improve patient mobility and comfort using her human centered design, prototype fabrication, and data analysis experience. 
 
 ## Education
-Vanderbilt University
+Vanderbilt University, 2020 - 2024
  * BE Biomedical Engineering
 
 ## Work Experiences 
@@ -73,4 +73,4 @@ Annual accessible technology maker event emphasizing human centered design of us
 * Repaired medical equipment at charity hospitals in Guatemala City and Antigua
   * Surgical table, vital signs monitors, infant incubators, heat therapy system
 
-![image of Delaney Clawson](/assets/img/Nov2022_headshot.jpeg)
+
