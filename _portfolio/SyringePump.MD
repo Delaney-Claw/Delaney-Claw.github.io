@@ -24,9 +24,9 @@ Operation: The desired flow rate is entered in the computer and the code is sync
 
 | 3D Printed Parts | Key Features |
 | --------- | ------- | 
-| Enclosure | Side insert for the door and cutouts for wires, LCD screen, button, and LED | 
+| Enclosure | Side insert for the door and cutouts for wires, LCD screen, button, LED, and screw holes for attaching the top bar | 
 | Enclosure Door | Slides into enclosure to hide wiring | 
-| Motor Mount Plate | Motor screwed into plate |
+| Motor Mount Plate | Motor screwed into plate and hole for rod |
 | Moving Plate | Holds end of syringe and moves along lead screw until it hits limit switch |
 | Plate for Syringe Tip | Keeps syringe tip in place |
 | Plate for Holding Barrel | Supports barrel of the syringe and holds limit switch |
