@@ -2,15 +2,12 @@
 title: "Syringe Pump"
 excerpt: "The syringe pump provides precision flow of liquid for hospital or research use"
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: assets/img/syringe_pump.jpeg
+    image_path: assets/img/syringe_pump.jpeg
+    alt: "completed syringe pump"
+  - url: /assets/img/syringe_pump_open.jpg
+    image_path: assets/img/syringe_pump_open.jpg
+    alt: "opened panel to view wiring inside"
 ---
 
 Syringe pumps can be key pieces of equipment to deliver medication or nutrients to patients in the hospital. However, these devices are hundreds of dollars each. My team designed a low-cost syringe pump using a combination of 3D printed and off-the-shelf parts that can deliver fluids at a given flow rate.   
