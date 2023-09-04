@@ -26,9 +26,9 @@ Operation: The desired flow rate is entered in the computer and the code is sync
 |Enclosure | Side insert for the door and cutouts for wires, LCD screen, button, and LED| 
 | Enclosure Door| Slides into enclosure to hide wiring| 
 |Motor Mount Plate| Motor screwed into plate |
-|Moving Plate| Holds end of syringe and moves along lead screw|
+|Moving Plate| Holds end of syringe and moves along lead screw until it hits limit switch|
 |Plate for Syringe Tip| Keeps syringe tip in place |
-| Plate for Holding Barrel| Supports barrel of the syringe|
+| Plate for Holding Barrel| Supports barrel of the syringe and holds limit switch|
 
 
 
