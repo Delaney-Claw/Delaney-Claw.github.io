@@ -5,8 +5,8 @@ gallery:
   - url: assets/img/syringe_pump.jpeg
     image_path: assets/img/syringe_pump.jpeg
     alt: "completed syringe pump"
-  - url: /assets/img/syringe_pump_open.jpg
-    image_path: assets/img/syringe_pump_open.jpg
+  - url: /assets/img/syringe_pump_open.jpeg
+    image_path: assets/img/syringe_pump_open.jpeg
     alt: "opened panel to view wiring inside"
 ---
 
