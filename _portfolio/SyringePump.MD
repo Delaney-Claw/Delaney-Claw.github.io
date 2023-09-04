@@ -19,3 +19,26 @@ Operation: The desired flow rate is entered in the computer and the code is sync
 # CAD Model 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5f2e570389fd93e0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Parts List 
+
+| Part | Quantity |
+|------|---------|
+| Mean Well Quad Power Supply | 1 |
+| Elegoo Uno R3 | 1| 
+|Breadboard | 1|
+|Nema 17 Motor 39 mm | 1 | 
+| V Slot Bar 300 mm | 1 |
+| TR8 Lead Screw 250 mm | 1 | 
+|Linear Rod 8 mm x 200 mm | 1 |
+|Trapezoidal Lead Screw Nut TR8 | 1 | 
+|F688ZZ Flanged Ball Bearing | 1 | 
+|Lock Collar | 2 |
+|Linear Rod Collar | 2 | 
+|Flexible Coupler| 1 |
+|Latching Panel Mount Button | 1 | 
+|Limit Switch| 1|
+| LED | 1| 
+|M3 x 0.5 mm Thread, 10 mm Long | 4 | 
+|M5 x 0.8 mm Thread, 12 mm Long | 6 | 
+
