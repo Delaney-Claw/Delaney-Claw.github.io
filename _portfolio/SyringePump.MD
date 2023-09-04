@@ -1,9 +1,6 @@
 ---
 title: "Syringe Pump"
 excerpt: "The syringe pump provides precision flow of liquid for hospital or research use"
-header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
@@ -20,7 +17,7 @@ Syringe pumps can be key pieces of equipment to deliver medication or nutrients 
 
 Operation: The desired flow rate is entered in the computer and the code is synced to the device. It begins pumping the liquid and will stop when the syringe is empty. The LCD screen displays the flow rate and the light indicates when the liquid is pumping. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery with different views of the syringe pump." %}
 
 # CAD Model 
 
