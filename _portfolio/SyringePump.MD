@@ -20,7 +20,7 @@ Operation: The desired flow rate is entered in the computer and the code is sync
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5f2e570389fd93e0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# [Arduino Code] (https://github.com/Delaney-Claw/Delaney-Claw.github.io/blob/6656d61e603cdf846cc6921c1b41db18436d30cd/assets/syringe_pump_code.ino)
+[Arduino Code] (https://github.com/Delaney-Claw/Delaney-Claw.github.io/blob/6656d61e603cdf846cc6921c1b41db18436d30cd/assets/syringe_pump_code.ino)
 
 
 # 3D Printed Parts List 
