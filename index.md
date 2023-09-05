@@ -10,17 +10,17 @@ header:
       url: "/portfolio/"
 excerpt: "Delaney Clawson is an engineering student with a passion for prosthetics and mobility devices."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/guate_table.jpeg
+    alt: "Speaking to hospital representatives"
+    title: "Surgical Table Repair in Guatemala"
+    excerpt: "Repaired many devices during service learning trip to Guatemala City and Antigua."
+  - image_path: assets/img/phonecases.jpeg
+    alt: "Multiple phone case iterations"
+    title: "Phone Case Development"
+    excerpt: "Personalized a phone case from scratch that has been in use for over five months."
+  - image_path: assets/img/incubator.jpeg
+    title: "Infant Incubator"
+    excerpt: "Low cost incubator design for regulating infant body temperature."
 ---
 
 {% include feature_row %}
