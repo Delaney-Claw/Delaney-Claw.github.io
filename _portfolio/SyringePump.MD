@@ -1,6 +1,8 @@
 ---
 title: "Syringe Pump"
 excerpt: "The syringe pump provides precision flow of liquid for hospital or research use"
+header: 
+  teaser: assets/img/syringe_pump_2.jpeg
 gallery:
   - url: assets/img/syringe_pump.jpeg
     image_path: assets/img/syringe_pump.jpeg
