@@ -10,8 +10,8 @@ header:
       url: "/portfolio/"
 excerpt: "Delaney Clawson is an engineering student with a passion for prosthetics and mobility device design."
 feature_row:
-  - image_path: assets/img/guate_table_2.jpeg
-    alt: "Speaking to hospital representatives"
+  - image_path: assets/img/guate_table_2.jpg
+    alt: "Testing moveable features of surgical table"
     title: "Surgical Table Repair in Guatemala"
     excerpt: "Repaired many devices during service learning trip to Guatemala City and Antigua."
   - image_path: assets/img/phonecases.jpeg
