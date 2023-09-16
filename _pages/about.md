@@ -39,7 +39,7 @@ Premiere foundational research institute and graduate school
  * Tracked neural crest and neural crest-like cells during mouse development in the Paul Trainor Lab 
  * Trained to use equipment and software for sample preparation, microscopy, and image analysis
 
-**Additive Manufacturing and Design Intern, Alden**  
+**Data Analyst Intern, Alden**  
 Kansas City, Missouri  
 December 2020 - January 2021 and May - August 2021   
 Biotech startup developing nanobiosensor food contamination diagnostic device  
