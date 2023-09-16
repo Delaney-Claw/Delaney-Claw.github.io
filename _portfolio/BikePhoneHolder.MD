@@ -14,13 +14,14 @@ gallery:
 
 The bike phone holder was created for additive manufacturing class at Vanderbilt University using the top-down modeling approach. Learn more about it below! 
 
-{% include gallery caption="This is a sample gallery with views of the bike phone holder assembled and all of the parts." %}
+{% include gallery caption="This is a sample gallery with different views of the assembled device and each of the parts." %}
 
 # CAD Model 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2ddcd9cad9ad7619?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # About This Design 
+
 Previously when designing an assembly with multiple parts, I have placed each part in an individual file, heavily parametrized the design, and then derived those parameters across the files. Once the individual parts were all made, I would assemble them in one file. This approach allows for trading parts in and out of the assembly easily. However, it can be difficult to manage the parameters across files and make sure the parts fit together and update to fit changes. The workflow is slowed down by switching back and forth between files. 
 
 For this project, I introduced top-down modeling. This is when all the parts of an assembly are made as components within the same file. After making the first part, the next part can be built exactly where it needs to fit in order to assemble together. The project and include tools are key to success. The top-down modeling approach was used in this assignment because later designed parts can adjust to changes made to earlier designed parts because of the projected/included features. Parameters only need to be defined once and are carried throughout all parts without using derive. The parts can be visualized independently or within the assembly. 
