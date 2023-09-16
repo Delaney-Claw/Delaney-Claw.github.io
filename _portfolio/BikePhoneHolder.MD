@@ -2,14 +2,17 @@
 title: "Bike Phone Holder"
 excerpt: "This device holds a phone in place while riding a bike. Great to use for directions!"
 header: 
-  teaser: assets/img/syringe_pump_2.jpeg
+  teaser: assets/img/assembledBPH.jpeg
 gallery:
-  - url: assets/img/syringe_pump.jpeg
-    image_path: assets/img/syringe_pump.jpeg
-    alt: "completed syringe pump"
-  - url: /assets/img/syringe_pump_open.jpeg
-    image_path: assets/img/syringe_pump_open.jpeg
-    alt: "opened panel to view wiring inside"
+  - url: /assets/img/assembledBPH.jpeg
+    image_path: assets/img/assembledBPH.jpeg
+    alt: "assembled bike phone holder"
+   - url: /assets/img/lockBPH.jpeg
+    image_path: assets/img/lockBPH.jpeg
+    alt: "separated into two halves to view the lock mechanism"
+  - url: /assets/img/backBPH.jpeg
+    image_path: assets/img/backBPH.jpeg
+    alt: "two halves flipped over"
 ---
 
 The bike phone holder was created for additive manufacturing class at Vanderbilt University using the top-down modeling approach. Learn more about it below! 
