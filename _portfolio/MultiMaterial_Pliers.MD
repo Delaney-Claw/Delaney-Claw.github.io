@@ -5,15 +5,18 @@ excerpt: "Using multiple materials within the same item can expand the design po
 header: 
   teaser: assets/img/assembledBPH.jpeg
 gallery:
-  - url: assets/img/assembledBPH.jpeg
-    image_path: assets/img/assembledBPH.jpeg
-    alt: "assembled bike phone holder"
-  - url: assets/img/lockBPH.jpeg
-    image_path: assets/img/lockBPH.jpeg
-    alt: "separated into two halves to view the lock mechanism"
-  - url: assets/img/backBPH.jpeg
-    image_path: assets/img/backBPH.jpeg
-    alt: "two halves flipped over"
+  - url: assets/img/pliers_front.jpeg
+    image_path: assets/img/pliers_front.jpeg
+    alt: "pliers front view"
+  - url: assets/img/pliers_back.jpeg
+    image_path: assets/img/pliers_back.jpeg
+    alt: "pliers back view, intersections between TPU and PLA visible"
+  - url: assets/img/pliers_iterations.jpeg
+    image_path: assets/img/pliers_iterations.jpeg
+    alt: "iterations of the design - one joint, one pair printed too thin with multimaterial, and final version"
+  - url: assets/img/open_close.gif
+    image_path: assets/img/open_close.gif
+    alt: "gif of the pliers closing and reopening"
 ---
 
 
