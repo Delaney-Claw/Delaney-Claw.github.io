@@ -35,10 +35,13 @@ This design has 30 mm jaws that naturally sit 12 mm apart. The handles are curve
 
 # Print-In-Place Technique
 
-P
+Print-in-place is a technique where multiple components are printed in the positions they will be assembled in, as opposed to assembling later. This technique has several advantages. First of all, the item is ready to use right off the bed. It also allows for designs to be more complex with interlocking features and often reduces support material. 
 
 # About This Design 
 
-My 
+My pliers design uses flexible TPU 95A as a joint between handles and jaws made of PLA. These pieces fit together using an interlocking T shape. When printed using a multimaterial printer, the pliers can be printed with the joint fully enclosed in the handle and jaws. If a multimaterial printer is unavailable, they can be printed with one side of the PLA enclosure removed so the pieces can be printed separately and assembled together. 
+
+The pliers open automatically because the joint is designed as a lattice. It closes when the handles are pressed together because the lattice collapses. To open it, the lattice pushes the handles back open automatically. The flexible material is what allows this movement. 
+
 
 
