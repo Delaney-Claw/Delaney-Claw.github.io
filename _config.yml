@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/Nov2022_headshot.jpeg"
-  bio              : "Applying engineering experience to prosthetics and orthotics design "
+  bio              : "Applying engineering experience to mobility device design"
   location         : "Kansas City, MO"
   links:
     - label: "GitHub"
