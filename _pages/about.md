@@ -4,11 +4,12 @@ title: "About Delaney Clawson"
 
 ---
 
-Delaney is seeking opportunities in prosthetics and orthotics research and development to improve patient mobility and comfort using her human centered design, prototype fabrication, and data analysis experience. 
+Delaney is seeking opportunities in mobility device research and development to improve patient experience and comfort using her human centered design, prototype fabrication, and data analysis experience. 
 
 ## Education
 Vanderbilt University, 2020 - 2024
- * BE Biomedical Engineering
+ * BE in Biomedical Engineering
+ * Minor in Digital Fabrication
 
 ## Work Experiences 
 **Prosthetics and Orthotics Intern, Hanger Clinic**   
