@@ -1,4 +1,3 @@
-
 ---
 title: "Multi-Material Pliers"
 excerpt: "Using multiple materials within the same item can expand the design possibilities."
@@ -18,8 +17,6 @@ gallery:
     image_path: assets/img/open_close.gif
     alt: "gif of the pliers closing and reopening"
 ---
-
-
 
 The multi-material pliers were created for additive manufacturing class at Vanderbilt University using the print-in-place technique! 
 
