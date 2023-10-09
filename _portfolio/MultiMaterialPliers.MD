@@ -3,7 +3,7 @@
 title: "Multi-Material Pliers"
 excerpt: "Using multiple materials within the same item can expand the design possibilities."
 header: 
-  teaser: assets/img/assembledBPH.jpeg
+  teaser: assets/img/pliers_front.jpeg
 gallery:
   - url: assets/img/pliers_front.jpeg
     image_path: assets/img/pliers_front.jpeg
