@@ -13,11 +13,11 @@ feature_row:
   - image_path: assets/img/guate_table_2.jpg
     alt: "Testing moveable features of surgical table"
     title: "Surgical Table Repair in Guatemala"
-    excerpt: "Repaired many devices during service learning trip to Guatemala City and Antigua."
+    excerpt: "Repaired medical devices during service learning trip to Guatemala City and Antigua, including this surgical table."
   - image_path: assets/img/phonecases.jpeg
     alt: "Multiple phone case iterations"
     title: "Phone Case Development"
-    excerpt: "Personalized a phone case from scratch that has been in use for over five months."
+    excerpt: "Personalized a phone case from scratch that has been in use for over six months."
   - image_path: assets/img/incubator.jpeg
     title: "Infant Incubator"
     excerpt: "Low cost incubator design for regulating infant body temperature."
