@@ -16,6 +16,9 @@ gallery:
   - url: assets/img/open_close.gif
     image_path: assets/img/open_close.gif
     alt: "gif of the pliers closing and reopening"
+  - url: assets/img/pliers_cx.jpeg
+    image_path: assets/img/pliers_cx.jpeg
+    alt: "cross section view of pliers in CAD file, focused on the joint"
 ---
 
 The multi-material pliers were created for additive manufacturing class at Vanderbilt University using the print-in-place technique! 
