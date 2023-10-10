@@ -32,7 +32,7 @@ This design has 30 mm jaws that naturally sit 12 mm apart. The handles are curve
 
 # Print-In-Place Technique
 
-Print-in-place is a technique where multiple components are printed in the positions they will be assembled in, as opposed to assembling later. This technique has several advantages. First of all, the item is ready to use right off the bed. It also allows for designs to be more complex with interlocking features and often reduces support material. Some fantastic print-in-place models can be found [here](https://cults3d.com/en/collections/best-print-in-place-stl-files-3d-printing) to spark your creativity! 
+Print-in-place is a technique where multiple components are printed in the positions they will be assembled in, as opposed to assembling later. This technique has several advantages. First of all, the item is ready to use right off the bed. It also allows for designs to be more complex with interlocking features and often reduces support material. Some fantastic print-in-place models can be found [here](https://cults3d.com/en/collections/best-print-in-place-stl-files-3d-printing) to spark your creativity! Dissolvable support material can be particularly useful to print-in-place designs because it can support internal features and can be removed without taking the joint apart. This design used a combination of flexible and rigid materials to create added functionality. 
 
 # About This Design 
 
