@@ -2,7 +2,7 @@
 title: "TOM Annual Makeathon"
 excerpt: "Custom-build and deliver accessibility technology in just three days!"
 header: 
-  teaser: assets/img/assembledBPH.jpeg
+  teaser: assets/img/TOM_working.JPG
 gallery:
   - url: assets/img/TOM_working.JPG
     image_path: assets/img/TOM_working.JPG
