@@ -4,17 +4,17 @@ excerpt: "Custom-build and deliver accessibility technology in just three days!"
 header: 
   teaser: assets/img/assembledBPH.jpeg
 gallery:
-  - url: assets/img/TOM_working.jpg
-    image_path: assets/img/TOM_working.jpg
+  - url: assets/img/TOM_working.JPG
+    image_path: assets/img/TOM_working.JPG
     alt: "assembling the ramp frame"
   - url: assets/img/TOM_group.jpg
     image_path: assets/img/TOM_group.jpg
     alt: "group with the folding ramp and Michelle, the need knower"
-  - url: assets/img/TOM_chancellor.jpg
-    image_path: assets/img/TOM_chancellor.jpg
+  - url: assets/img/TOM_chancellor.JPG
+    image_path: assets/img/TOM_chancellor.JPG
     alt: "Me explaining the project to Vanderbilt's Chancellor Diermeier"
-  - url: assets/img/TOM_event.jpeg
-    image_path: assets/img/TOM_event.jpeg
+  - url: assets/img/TOM_event.JPG
+    image_path: assets/img/TOM_event.JPG
     alt: "over 150 participants in the TOM event during the showcase"
 ---
 
