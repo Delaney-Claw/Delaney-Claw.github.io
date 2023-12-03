@@ -13,7 +13,8 @@ gallery:
 ---
 
 The microfluidic mixing device is used to thoroughly mix small volumes of liquid. 
-{% include gallery caption="this is several images of the microfluidic mold and device." %}
+
+{% include gallery caption="Shown above are several images of the microfluidic mold and device." %}
 
 # CAD Model
 
