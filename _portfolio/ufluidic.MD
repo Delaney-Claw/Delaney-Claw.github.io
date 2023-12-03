@@ -1,5 +1,5 @@
 ---
-title: "MicroFluidic Mixing Device"
+title: "Microfluidic Mixing Device"
 excerpt: "Thorough mixes of small volumes of liquid"
 header: 
   teaser: assets/img/mold.jpeg
@@ -12,7 +12,7 @@ gallery:
     alt: "angled view of mold to see the 3D elements"
 ---
 
-The microfluidic mixing device is used to thoroughly mix small volumes of liquid. 
+The microfluidic mixing device is used to thoroughly mix small volumes of liquid. It is made by 3D printing a mold and casting it with PDMS, a silicone polymer. 
 
 {% include gallery caption="Shown above are several images of the microfluidic mold and device." %}
 
