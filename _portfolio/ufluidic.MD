@@ -6,10 +6,16 @@ header:
 gallery:
   - url: assets/img/mold.jpeg
     image_path: assets/img/mold.jpeg
-    alt: "mold for microfluidic device"
+    alt: "mold for microfluidic mixing device"
   - url: /assets/img/mold3D.jpeg
     image_path: assets/img/mold3D.jpeg
     alt: "angled view of mold to see the 3D elements"
+  - url: /assets/img/slipstream.jpg
+    image_path: assets/img/slipstream.jpg
+    alt: "photo of mixing where both colors are visible initially and mixed at the end of the path"
+  - url: /assets/img/cast.jpeg
+    image_path: assets/img/cast.jpeg
+    alt: "cast microfluidic mixing device"
 ---
 
 The microfluidic mixing device is used to thoroughly mix small volumes of liquid. It is made by 3D printing a mold and casting it with PDMS, a silicone polymer. 
