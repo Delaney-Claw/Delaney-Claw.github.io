@@ -26,6 +26,10 @@ The microfluidic mixing device is used to thoroughly mix small volumes of liquid
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e69c0c8c71e462fa7?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Mixing video 
+
+[![Watch it mix](https://img.youtube.com/vi/iKBHfNilQLc/default.jpg)](https://youtu.be/iKBHfNilQLc)
+
 # Project Description
 
 We designed a mold for a microfluidic mixing device. It takes injections of two liquids and mixes them together for an output on the other side. The emphasis is on small quantities of liquid to be thoroughly mixed. This is useful for medical diagnostics tools that have an interest in high throughput of samples and smaller samples taken from patients. 
