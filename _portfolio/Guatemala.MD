@@ -10,7 +10,7 @@ gallery:
   - url: assets/img/guate_sewing.jpeg
     image_path: assets/img/guate_sewing.jpeg
     alt: "sewing the covers for portholes on an infant incubator"
-  - url: assets/img/gaute_table.jpeg
+  - url: assets/img/guate_table.jpeg
     image_path: assets/img/guate_table.jpeg
     alt: "Describing the repairs we made to the hospital administrator"
   - url: assets/img/guate_table_2.jpg
