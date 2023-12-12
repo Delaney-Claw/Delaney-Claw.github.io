@@ -24,7 +24,7 @@ I participated the Tikkun Olam Makers Makeathon for three years. Each year I had
 
 {% include gallery caption="This is a sample gallery with images of my group working throughout the 2023 Makeathon to build a wheelchair ramp." %}
 
-2023: Michelle, a graduate student at Vanderbilt, needed a wheelchair ramp to help get her new power wheelchair into the trunk of her Toyota Corolla. The design folded small enough so the wheelchair and ramp could both fit with room to spare in the trunk. Michelle struggles with lifting heavy weight so we designed a crank system to pull the wheelchair up the ramp for her. 
+2023: A graduate student at Vanderbilt needed a wheelchair ramp to help get her new power wheelchair into the trunk of her small car. The design folded small enough so the wheelchair and ramp could both fit in the trunk. She struggles with lifting heavy weight so we designed a crank system to pull the wheelchair up the ramp for her. 
 
 2022: The planned project fell through, so my group chose an improvised project in only half the time. We worked with a group member's younger sister to design a bra that could be put on with the use of one hand. This design utilized a set of laces to pull the sides together and velcro instead of small, finicky clasps. It is easily replicable across multiple articles of clothing and removable to avoid laces staying under the shirt all day. 
 
