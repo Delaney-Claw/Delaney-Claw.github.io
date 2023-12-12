@@ -20,6 +20,10 @@ gallery:
 
 
 
-I travelled to Guatemala City and Antigua to repair medical equipment at four hospitals during spring break of 2023. We collaborated with Universidad del Valle de Guatemala engineering students. We worked together switching between Spanish and English. The trip taught me about low-resource design, how to evaluate equipment, and isolate the source of a problem. 
+I traveled to Guatemala City and Antigua with Vanderbilt's biomedical engineering department during spring break of 2023. We repaired medical equipment at four hospitals and collaborated with Universidad del Valle de Guatemala engineering students. We worked together by switching between Spanish and English. The trip taught me about low-resource design, how to evaluate equipment and isolate the root of a problem, and improvising solutions to those problems. After the trip, we also wrote and recorded a video about otoscope repairs that will be uploaded in both English and Spanish to help other hospitals repair their equipment independently. 
 
 {% include gallery caption="This is a sample gallery with images of me and the team working on various medical devices." %}
+
+The YouTube channel can be found [here!](https://youtube.com/@vubmeguatemala2118?si=SCBXape1Jd0J424K)
+
+The equipment I worked on includes: surgical table, many infant incubators, vital signs monitors, blood pressure monitors, and heat therapy systems. We also tested, inventoried, labelled, and organized hundreds of items for one hospital in just two days. 
