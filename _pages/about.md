@@ -7,17 +7,18 @@ title: "About Delaney Clawson"
 Delaney is seeking opportunities in mobility device research and development to improve patient experience and comfort using her human centered design, prototype fabrication, and data analysis experience. 
 
 ## Education
-Vanderbilt University, 2020 - 2024
+Vanderbilt University, August 2020 - May 2024
  * BE in Biomedical Engineering
  * Minor in Digital Fabrication
 
 ## Work Experiences 
-**Prosthetics and Orthotics Intern, Hanger Clinic**   
-Kansas City, Kansas  
-May - August 2023   
-Observed twelve clinicians across three clinics with various specialties
- * Gained clinical experience by observing and assisting with implementation of lower extremity prosthetics, myoelectric upper extremity prosthetics, osseointegrated prosthetics, pediatric orthotics, scoliosis braces, cranial molding helmets, and more
- * Problem solving with device functionality and fit to improve patient comfort and utilization  
+**Lab Associate, Vanderbilt University Zelik Lab for Biomechanics and Assistive Technology**  
+Nashville, Tennessee
+August 2023 - May 2024    
+Vanderbilt Center for Rehabilitation Engineering and Assistive Technology (CREATE) 
+ * Developing experiment to characterize the effect of springs in a knee brace on gait cycle kinematics
+ * Participating in full project scope, from mechanical design to data collection and analysis to writing
+ * Designed and machined six-component sliding joint knee brace by combining aluminum, steel, and 3D printed custom parts 
 
 **Lab Associate, Northwestern University Prosthetics and Orthotics Center**  
 Chicago, Illinois  
@@ -26,6 +27,13 @@ Matthew Major Prosthetics and Orthotics Rehabilitation Assessment Laboratory
  * Data analysis of motion lab experiment studying novel vacuum prosthetic suspension device
  * Compiled literature review of socket reaction moment studies to contextualize data analysis results
  * Designed and 3D printed educational tools for master of prosthetics and orthotics professors  
+
+**Prosthetics and Orthotics Intern, Hanger Clinic**   
+Kansas City, Kansas  
+May - August 2023   
+Observed twelve clinicians across three clinics with various specialties
+ * Gained clinical experience by observing and assisting with implementation of lower extremity prosthetics, myoelectric upper extremity prosthetics, osseointegrated prosthetics, pediatric orthotics, scoliosis braces, cranial molding helmets, and more
+ * Problem solving with device functionality and fit to improve patient comfort and utilization  
 
 **Additive Manufacturing and Design Intern, Alden**  
 Kansas City, Missouri  
@@ -52,11 +60,16 @@ Biotech startup developing nanobiosensor food contamination diagnostic device
 
 While working across additive manufacturing, prosthetics and orthotics, and cellular biology, Delaney has gained the following skills:
 
-* Fused Filament Fabrication (FFF)
-  * Stratasys, Voron, and Creality systems 
+* Fused Filament Fabrication (FFF) and Fused Deposition Modeling (FDM)
+  * Stratasys, Voron, and Creality systems
+* Selective Laser Sintering (SLS printing)
+* Vat Photopolymerization (VPP or SLA printing)
+* Generative Design and Simulation in Fusion360
 * Certified SolidWorks Associate in Mechanical Design (CSWA)
+ 
 * Prosthetic height and alignment adjustment
-* Prosthetic socket fit adjustment 
+* Prosthetic socket fit adjustment
+
 * IACUC compliant mouse handling
 * Sample dissection under microscope
 * Nikon and Zeiss microscopic imaging systems
