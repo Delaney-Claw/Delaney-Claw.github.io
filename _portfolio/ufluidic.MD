@@ -10,12 +10,12 @@ gallery:
   - url: /assets/img/mold3D.jpeg
     image_path: assets/img/mold3D.jpeg
     alt: "angled view of mold to see the 3D elements"
-  - url: /assets/img/slipstream.jpg
-    image_path: assets/img/slipstream.jpg
-    alt: "photo of mixing where both colors are visible initially and mixed at the end of the path"
   - url: /assets/img/cast.jpeg
     image_path: assets/img/cast.jpeg
     alt: "cast microfluidic mixing device"
+  - url: /assets/img/slipstream.jpg
+    image_path: assets/img/slipstream.jpg
+    alt: "photo of mixing where both colors are visible initially and mixed at the end of the path"
 ---
 
 The microfluidic mixing device is used to thoroughly mix small volumes of liquid. It is made by 3D printing a mold and casting it with PDMS, a silicone polymer. 
@@ -26,9 +26,9 @@ The microfluidic mixing device is used to thoroughly mix small volumes of liquid
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e69c0c8c71e462fa7?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Mixing video 
+# Watch it mix! 
 
-[![Watch it mix](https://img.youtube.com/vi/iKBHfNilQLc/default.jpg)](https://youtu.be/iKBHfNilQLc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iKBHfNilQLc?si=JwKk1oVl0EVoq1pu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Project Description
 
