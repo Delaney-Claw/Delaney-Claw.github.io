@@ -12,10 +12,10 @@ Vanderbilt University, August 2020 - May 2024
  * Minor in Digital Fabrication
 
 ## Work Experiences 
-**Lab Associate, Vanderbilt University Zelik Lab for Biomechanics and Assistive Technology**  
+**Lab Associate, Vanderbilt University Center for Rehabilitation Engineering and Assistive Technology (CREATE)**  
 Nashville, Tennessee
 August 2023 - May 2024    
-Vanderbilt Center for Rehabilitation Engineering and Assistive Technology (CREATE) 
+Karl Zelik Lab for Biomechanics and Assistive Technology
  * Developing experiment to characterize the effect of springs in a knee brace on gait cycle kinematics
  * Participating in full project scope, from mechanical design to data collection and analysis to writing
  * Designed and machined six-component sliding joint knee brace by combining aluminum, steel, and 3D printed custom parts 
