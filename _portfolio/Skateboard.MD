@@ -1,5 +1,5 @@
 ---
-title: "3D Print Motorized Skateboard"
+title: "3D Printed Electric Skateboard"
 excerpt: "The skateboard deck and trucks were created to explore large format printing and generative design."
 header: 
   teaser: assets/img/SBirl.jpg
@@ -35,7 +35,7 @@ gallery:
 
 This project was created for Additive Manufacturing at Vanderbilt University. The skateboard has many parts, and we designed two: the main deck and the wheel axle, called a truck. The deck was printed using large format 3D printing and the truck design uses generative design. Learn about these tools and the design process below! 
 
-{% include gallery caption="This is a sample gallery with different views of the syringe pump." %}
+{% include gallery caption="This is an image gallery with images from throughout the design process." %}
 
 # CAD Models
 Assembled skateboard model
@@ -47,7 +47,7 @@ Aluminum Truck
 
 Nylon Truck 
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eda882312e1a17209?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>\
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eda882312e1a17209?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Skateboard Deck Design
 We designed two major components of the skateboard – the deck and the trucks for the wheels. The trucks were designed using AI generating tools, which are described below. The deck was designed manually and tested in a bending simulation. 
@@ -78,7 +78,7 @@ Iterations can be created rapidly using generative design tools by adjusting the
 While the example given here is an individual component of a vehicle, generative design can be used on any scale, from the smallest of engine parts to the entire body of the car. The technology developments of generative design and SLS printing go hand in hand and can help the automotive industry move into the future. 
 
 Resources: 
-[OpenSource Skateboard](https://www.youtube.com/watch?app=desktop&v=meiQGtTQUQo)
-[Skate Warehouse](https://www.skatewarehouse.co.uk/blogs/buyer-guides/buying-your-first-skateboard-a-beginners-guide)
-[Autodesk and General Motors](https://www.autodesk.com/customer-stories/general-motors-generative-design)
+[OpenSource Skateboard](https://www.youtube.com/watch?app=desktop&v=meiQGtTQUQo) \
+[Skate Warehouse](https://www.skatewarehouse.co.uk/blogs/buyer-guides/buying-your-first-skateboard-a-beginners-guide) \
+[Autodesk and General Motors](https://www.autodesk.com/customer-stories/general-motors-generative-design) \
 [Neural Concept](https://www.neuralconcept.com/post/challenges-in-generative-design-for-automotive-ev-industry)
