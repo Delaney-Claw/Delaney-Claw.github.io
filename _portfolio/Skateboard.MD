@@ -2,7 +2,7 @@
 title: "3D Printed Electric Skateboard"
 excerpt: "The skateboard deck and trucks were created to explore large format printing and generative design."
 header: 
-  teaser: assets/img/SBirl.jpg
+  teaser: assets/img/SBirlskinny.jpg
 gallery:
   - url: assets/img/SBtop.jpg
     image_path: assets/img/SBtop.jpg
