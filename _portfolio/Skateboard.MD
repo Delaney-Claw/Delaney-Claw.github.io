@@ -43,7 +43,7 @@ Assembled skateboard model
 Aluminum Truck 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eb81a666ef7a197e5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> \
 Nylon Truck 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eda882312e1a17209?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> \
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eda882312e1a17209?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> 
 
 # Skateboard Deck Design
 We designed two major components of the skateboard – the deck and the trucks for the wheels. The trucks were designed using AI generating tools, which are described below. The deck was designed manually and tested in a bending simulation. 
